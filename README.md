@@ -29,9 +29,6 @@ Basically nothing ^-^ I love sitting around enjoying the nature and the fresh ai
 
 
 ## &#x1f4c8; GitHub Stats
-
 ![Mira's GitHub stats](https://github-readme-stats.vercel.app/api?username=MiraBellierr&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21)
-
-<a href="https://github.com/MiraBellierr/Jasmine">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MiraBellierr&repo=Jasmine&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
-</a>
+![Mira's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MiraBellierr&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=2)<br>
+![Jasmine](https://github-readme-stats.vercel.app/api/pin/?username=MiraBellierr&repo=Jasmine&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21)
