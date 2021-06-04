@@ -35,7 +35,7 @@ Basically nothing ^-^ I love sitting around enjoying the nature and the fresh ai
 * **[Discord](https://discord.gg/s875Hry)**: My Discord server
 * **[Patreon](https://www.patreon.com/jasminebot)**: Help with funding
 ## &#x1f4c8; GitHub Stats
-![Mira's GitHub stats](https://github-readme-stats.vercel.app/api?username=MiraBellierr&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21)
-![Mira's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MiraBellierr&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=11&hide=html,css,makefile,shell)
+[![Mira's GitHub stats](https://github-readme-stats.vercel.app/api?username=MiraBellierr&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21)](https://github.com/MiraBellierr)
+[![Mira's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MiraBellierr&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=11&hide=html,css,makefile,shell)](https://github.com/MiraBellierr)
 <br>
-![Jasmine](https://github-readme-stats.vercel.app/api/pin/?username=MiraBellierr&repo=Jasmine&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21)
+[![Jasmine](https://github-readme-stats.vercel.app/api/pin/?username=MiraBellierr&repo=Jasmine&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21)](https://github.com/MiraBellierr/Jasmine)
