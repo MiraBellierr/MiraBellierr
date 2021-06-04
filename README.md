@@ -1,8 +1,8 @@
 ![](https://api.ghprofile.me/view?username=MiraBellierr&color=DA70D6&style=plastic&logo=Github&logoColor=DA70D6)
-![](https://img.shields.io/discord/684084513403699314?color=E6E6FA&label=Jasmine%20Headquaters&logo=Discord&logoColor=E6E6FA&style=plastic)
-![](https://img.shields.io/github/sponsors/MiraBellierr?color=DDA0DD&label=Patreon&logo=Patreon&logoColor=DDA0DD&style=plastic)
-![](https://img.shields.io/github/followers/MiraBellierr?color=EE82EE&label=Followers&logo=Github&logoColor=EE82EE&style=plastic)
-![](https://img.shields.io/github/stars/MiraBellierr/Jasmine?color=DA70D6&label=Stars&logo=Github&logoColor=DA70D6&style=plastic)<br>
+[![](https://img.shields.io/discord/684084513403699314?color=E6E6FA&label=Jasmine%20Headquaters&logo=Discord&logoColor=E6E6FA&style=plastic)](https://discord.gg/s875Hry)
+[![](https://img.shields.io/github/sponsors/MiraBellierr?color=DDA0DD&label=Patreon&logo=Patreon&logoColor=DDA0DD&style=plastic)](https://www.patreon.com/jasminebot)
+[![](https://img.shields.io/github/followers/MiraBellierr?color=EE82EE&label=Followers&logo=Github&logoColor=EE82EE&style=plastic)](https://github.com/MiraBellierr)
+[![](https://img.shields.io/github/stars/MiraBellierr/Jasmine?color=DA70D6&label=Stars&logo=Github&logoColor=DA70D6&style=plastic)](https://github.com/MiraBellierr/Jasmine)<br>
 ![](https://img.shields.io/badge/Linux-00008B?style=plastic&logo=linux&logoColor=white)
 ![](https://img.shields.io/badge/Ubuntu-E95420?style=plastic&logo=ubuntu&logoColor=white)
 ![](https://img.shields.io/badge/Bash-ED1C24?style=plastic&logo=gnu-bash&logoColor=white)
