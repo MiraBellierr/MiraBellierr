@@ -2,7 +2,7 @@
 [![](https://img.shields.io/discord/864537979339014184?color=blue&label=Kanna%27s%20Kawaii%20Klubhouse&logo=discord&logoColor=white&style=plastic)](https://discord.gg/NcPeGuNEdc)
 [![](https://img.shields.io/github/sponsors/MiraBellierr?color=DDA0DD&label=Patreon&logo=Patreon&logoColor=DDA0DD&style=plastic)](https://www.patreon.com/jasminebot)
 [![](https://img.shields.io/github/followers/MiraBellierr?color=EE82EE&label=Followers&logo=Github&logoColor=EE82EE&style=plastic)](https://github.com/MiraBellierr)
-[![](https://img.shields.io/github/stars/MiraBellierr/Jasmine?color=DA70D6&label=Stars&logo=Github&logoColor=DA70D6&style=plastic)](https://github.com/MiraBellierr/Jasmine)<br>
+[![](https://img.shields.io/github/stars/MiraBellierr/Kannabotto?color=DA70D6&label=Stars&logo=Github&logoColor=DA70D6&style=plastic)](https://github.com/MiraBellierr/Kannabotto)<br>
 ![](https://img.shields.io/badge/Linux-00008B?style=plastic&logo=linux&logoColor=white)
 ![](https://img.shields.io/badge/Ubuntu-E95420?style=plastic&logo=ubuntu&logoColor=white)
 ![](https://img.shields.io/badge/Bash-ED1C24?style=plastic&logo=gnu-bash&logoColor=white)
