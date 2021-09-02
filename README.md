@@ -16,7 +16,7 @@
 ![](https://img.shields.io/badge/DigitalOcean-%230167ff.svg?style=plastic&logo=digitalOcean&logoColor=white)
 ![](https://img.shields.io/badge/Intel-Core_i5_5th-0071C5?style=plastic&logo=intel&logoColor=white)
 
-<img width="120" height="120" align="left" style="float: left; margin: 0 10px 0 0;" alt="mira" src="https://avatars.githubusercontent.com/u/56716823?v=4">
+<img width="120" height="120" align="left" style="float: left; margin: 0 10px 0 0;" alt="mira" src="https://www.kannacoco.me/mira.png">
 
 # Hii, I'm Mirabellier! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 I'm an alien 👽. Nothing special ✨. I mostly code Discord bots in node.js. Expert in Javascript and node.js.<br>Nice to meet ya! :D
