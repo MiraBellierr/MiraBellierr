@@ -26,10 +26,8 @@ Basically nothing ^-^ I love sitting around enjoying the nature and the fresh ai
 ## About me
 🌿 My name is Mirabellier<br>
 🍂 20 years old<br>
-🌼 Female<br>
 🍓 Birthday is 8 September<br>
 🧩 Play chess sometimes<br>
-🩰 Married? No
 
 ## Links
 * **[Discord](https://discord.gg/NcPeGuNEdc)**: My Discord server
