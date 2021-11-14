@@ -19,7 +19,7 @@
 <img width="120" height="120" align="left" style="float: left; margin: 0 10px 0 0;" alt="mira" src="https://www.kannacoco.me/mira.png">
 
 # Hii, I'm Mirabellier! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
-I'm an alien 👽. Nothing special ✨. I mostly code Discord bots in node.js. Expert in Javascript and node.js.<br>Nice to meet ya! :D
+Nothing special ✨. I'm a software engineering student. I code stuff in Java.<br>Nice to meet ya! :D
 ## What I do?
 Basically nothing ^-^ I love sitting around enjoying the nature and the fresh air. 🌳
 
