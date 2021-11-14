@@ -36,4 +36,4 @@ Basically nothing ^-^ I love sitting around enjoying the nature and the fresh ai
 [![Mira's GitHub stats](https://github-readme-stats.vercel.app/api?username=MiraBellierr&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21)](https://github.com/MiraBellierr)
 [![Mira's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MiraBellierr&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=11&hide=html,css,makefile,shell)](https://github.com/MiraBellierr)
 <br>
-[![Kanna](https://github-readme-stats.vercel.app/api/pin/?username=MiraBellierr&repo=Kannabotto&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21)](https://github.com/MiraBellierr/Kannabotto)
+[![Kanna](https://github-readme-stats.vercel.app/api/pin/?username=MiraBellierr&repo=princess-lovely&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21)](https://github.com/MiraBellierr/princess-lovely)
