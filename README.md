@@ -19,9 +19,9 @@
 <img width="120" height="120" align="left" style="float: left; margin: 0 10px 0 0;" alt="mira" src="https://github.com/MiraBellierr.png">
 
 # Hii, I'm Mirabellier! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
-Nothing special ✨. I'm a software engineering student. I code stuff in Java.<br>Nice to meet ya! :D
+Nothing special ✨. I'm a software engineering student. Me code stuff in Java.<br>Nice to meet ya! :D
 ## What I do?
-Basically nothing ^-^ I love sitting around enjoying the nature and the fresh air. 🌳
+Basically nothing ^-^ Me love sitting around enjoying the nature and the fresh air. 🌳
 
 ## About me
 🌿 My name is Mirabellier<br>
