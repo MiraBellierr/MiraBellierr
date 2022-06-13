@@ -40,7 +40,7 @@ Basically nothing ^-^ Me love sitting around enjoying the nature and the fresh a
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MiraBellierr&repo=kanna&theme=radical" height=150px/>
 </a>
 <a href="[https://github.com/MiraBellierr/kanna](https://github.com/MiraBellierr/image-uploader)">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MiraBellierr&repo=kanna&theme=radical" height=150px/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MiraBellierr&repo=image-uploader&theme=radical" height=150px/>
 </a>
 
 [0]: https://discord.gg/NcPeGuNEdc
