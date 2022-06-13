@@ -33,7 +33,12 @@ Basically nothing ^-^ Me love sitting around enjoying the nature and the fresh a
 * **[Discord](https://discord.gg/NcPeGuNEdc)**: My Discord server
 * **[Patreon](https://www.patreon.com/kannacoco?fan_landing=true)**: Help with funding
 ## &#x1f4c8; GitHub Stats
-[![Mira's GitHub stats](https://github-readme-stats.vercel.app/api?username=MiraBellierr&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21)](https://github.com/MiraBellierr)
-[![Mira's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MiraBellierr&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=11&hide=html,css,makefile,shell)](https://github.com/MiraBellierr)
+[![Mira's GitHub stats](https://github-readme-stats.vercel.app/api?username=MiraBellierr&theme=radical&include_all_commits=true&show_icons=true)](https://github.com/MiraBellierr)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MiraBellierr&theme=radical&langs_count=10&hide=html,css,makefile,shell,Dockerfile&layout=compact&custom_title=Mira's%20Top%20Languages" height=195px/>
 <br>
-[![Kanna](https://github-readme-stats.vercel.app/api/pin/?username=MiraBellierr&repo=princess-lovely&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21)](https://github.com/MiraBellierr/princess-lovely)
+<a href="https://github.com/MiraBellierr/kanna">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MiraBellierr&repo=kanna&theme=radical" height=150px/>
+</a>
+<a href="[https://github.com/MiraBellierr/kanna](https://github.com/MiraBellierr/image-uploader)">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MiraBellierr&repo=kanna&theme=radical" height=150px/>
+</a>
