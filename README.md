@@ -20,18 +20,18 @@
 
 # Hii, I'm Mirabellier! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px">
 Nothing special ✨. Me a software engineering student. Me mostly code stuff in Javascript. Interested in Web Development. Nice to meet ya! :D
-## What I do?
+## <img src="https://github.com/SP-XD/SP-XD/blob/main/images/hyperkitty.gif?raw=true" width="25px" height="25px"/> What I do?
 Basically nothing ^-^ Me love sitting around enjoying the nature and the fresh air. 🌳
 
-## About me
+## <img src="https://github.com/SP-XD/SP-XD/blob/main/images/message.gif?raw=true" width="25" /> About me
 🌿 My name is Mirabellier<br>
 🍂 20 years old<br>
 🍓 Birthday is 8 September<br>
 🧩 Play chess sometimes<br>
 
-## Links
-* **[Discord](https://discord.gg/NcPeGuNEdc)**: My Discord server
-* **[Patreon](https://www.patreon.com/kannacoco?fan_landing=true)**: Help with funding
+## <img src="https://github.com/SP-XD/SP-XD/blob/main/images/letterbox.gif?raw=true" width="25px" height="25px"/> Contact Me on Social Media
+<img src="https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Ficon-library.com%2Fimages%2Fdiscordapp-icon%2Fdiscordapp-icon-22.jpg&f=1&nofb=1" width="15px" height="15px" /> [Discord](https://discord.gg/NcPeGuNEdc): My Discord server<br>
+<img src="https://cdn.icon-icons.com/icons2/2429/PNG/512/patreon_logo_icon_147253.png" width="15px" height="15px" /> [Patreon](https://www.patreon.com/kannacoco?fan_landing=true): Help with funding
 ## &#x1f4c8; GitHub Stats
 [![Mira's GitHub stats](https://github-readme-stats.vercel.app/api?username=MiraBellierr&theme=radical&include_all_commits=true&show_icons=true)](https://github.com/MiraBellierr)
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MiraBellierr&theme=radical&langs_count=10&hide=html,css,makefile,shell,Dockerfile&layout=compact&custom_title=Mira's%20Top%20Languages" height=195px/>
@@ -42,3 +42,5 @@ Basically nothing ^-^ Me love sitting around enjoying the nature and the fresh a
 <a href="[https://github.com/MiraBellierr/kanna](https://github.com/MiraBellierr/image-uploader)">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MiraBellierr&repo=kanna&theme=radical" height=150px/>
 </a>
+
+[0]: https://discord.gg/NcPeGuNEdc
