@@ -25,7 +25,7 @@ Basically nothing ^-^ Me love sitting around enjoying the nature and the fresh a
 
 ## <img src="https://github.com/SP-XD/SP-XD/blob/main/images/message.gif?raw=true" width="25" /> About me
 🌿 My name is Mirabellier<br>
-🍂 20 years old<br>
+🍂 21 years old<br>
 🍓 Birthday is 8 September<br>
 🧩 Play chess sometimes<br>
 
