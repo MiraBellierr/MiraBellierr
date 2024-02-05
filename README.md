@@ -19,7 +19,7 @@
 <img width="120" height="120" align="left" style="float: left; margin: 0 10px 0 0;" alt="mira" src="https://github.com/MiraBellierr.png">
 
 # Hii, I'm Mirabellier! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px">
-To be honest, I don't know what to write here. But here goes my introduction. I'm a software engineering student. I'm a total beginner but lately I'm interested in web development especially with React and React Native.
+I don't know what to write here. But here goes my introduction. I'm a software engineering student. I'm a total beginner but lately I'm interested in web development especially with React and React Native. So... please teach!
 ## <img src="https://github.com/SP-XD/SP-XD/blob/main/images/hyperkitty.gif?raw=true" width="25px" height="25px"/> What I do?
 What do I do? I'm doing a React Native project (I'm suffering, please send help!)
 
