@@ -19,18 +19,16 @@
 <img width="120" height="120" align="left" style="float: left; margin: 0 10px 0 0;" alt="mira" src="https://github.com/MiraBellierr.png">
 
 # Hii, I'm Mirabellier! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px">
-Nothing special ✨. Me a software engineering student. Me mostly code stuff in Javascript. Interested in Web Development. Nice to meet ya! :D
+To be honest, I don't know what to write here. But here goes my introduction. I'm a software engineering student. I'm a total beginner but lately I'm interested in web development especially with React and React Native.
 ## <img src="https://github.com/SP-XD/SP-XD/blob/main/images/hyperkitty.gif?raw=true" width="25px" height="25px"/> What I do?
-Basically nothing ^-^ Me love sitting around enjoying the nature and the fresh air. 🌳
+What do I do? I'm doing a React Native project (I'm suffering, please send help!)
 
 ## <img src="https://github.com/SP-XD/SP-XD/blob/main/images/message.gif?raw=true" width="25" /> About me
-🌿 My name is Mirabellier<br>
-🍓 Birthday is 8 September<br>
-🧩 Play chess sometimes<br>
+I'm bad at describing myself, As of I'm writing this, I'm 22 years old. I'm still a student taking software engineering course, Mathematics are my least favorite subject but I will manage (more suffering!)
 
 ## <img src="https://github.com/SP-XD/SP-XD/blob/main/images/letterbox.gif?raw=true" width="25px" height="25px"/> Contact Me on Social Media
 <img src="https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Ficon-library.com%2Fimages%2Fdiscordapp-icon%2Fdiscordapp-icon-22.jpg&f=1&nofb=1" width="15px" height="15px" /> [Discord](https://discord.gg/NcPeGuNEdc): My Discord server<br>
-<img src="https://cdn.icon-icons.com/icons2/2429/PNG/512/patreon_logo_icon_147253.png" width="15px" height="15px" /> [Patreon](https://www.patreon.com/kannacoco?fan_landing=true): Help with funding
+<img src="https://cdn.icon-icons.com/icons2/2429/PNG/512/patreon_logo_icon_147253.png" width="15px" height="15px" /> [Patreon](https://www.patreon.com/kannacoco?fan_landing=true): Help with funding (my life lol)
 ## &#x1f4c8; GitHub Stats
 [![Mira's GitHub stats](https://github-readme-stats.vercel.app/api?username=MiraBellierr&theme=radical&include_all_commits=true&show_icons=true)](https://github.com/MiraBellierr)
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MiraBellierr&theme=radical&langs_count=10&hide=html,css,makefile,shell,Dockerfile&layout=compact&custom_title=Mira's%20Top%20Languages" height=195px/>
